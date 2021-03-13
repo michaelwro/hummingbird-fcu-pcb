@@ -10,4 +10,8 @@ Blog: [Michael Wrona's Blog](https://mwrona.com/)
 
 **BEFORE USING, MAKE SURE YOU FULLY UNDERSTAND THE SCHEMATIC! USE AT YOUR OWN RISK! I AM NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR ELECTRONICS!**
 
-This is the place I store the PCB files for the Humming Flight Control Unit, a quadcopter flight controller that I developed. Feel free to download it and print it!
+This is the place I store the KiCAD project files for the Humming Flight Control Unit, a quadcopter flight controller that I developed. Feel free to download it and print it!
+
+![Hummingbird FCU Schematic](imgs/hfcu-schematic.png)
+
+![Hummingbird FCU Schematic](imgs/3d-render.PNG)
